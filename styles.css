@@ -85,7 +85,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-friend:hover {
     object-fit: fill;
-    background-image: url("images/share.png");
+    background-image: url("images/friend.jpeg");
 }
 
 #footer {
