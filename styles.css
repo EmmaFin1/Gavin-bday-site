@@ -83,7 +83,7 @@ h1, h2, h3, h4, p {
     background-image: url("images/TSHeart.webp");
 }
 
-#gift-img-happy:hover {
+#gift-img-friend:hover {
     object-fit: fill;
     background-image: url("images/share.png");
 }
